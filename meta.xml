@@ -1,0 +1,8 @@
+<meta>
+    <file src = "shader.fx"  />
+    <file src = "edge.fx"  />
+    <script src = "script.lua" type = "client" cache = "false" />
+    <script src = "demo.lua" type = "client" cache = "false" />
+    <export function = "addOutline" type = "client"/>
+    <export function = "removeOutline" type = "client"/>
+</meta>
